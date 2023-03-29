@@ -1,0 +1,29 @@
+三月 28, 2023 3:13:58 下午 org.example.Learner <init>
+信息: 日志初始化
+三月 28, 2023 3:13:59 下午 org.example.Learner learn
+信息: 学习算法：ExtensibleLStarMealy
+三月 28, 2023 3:13:59 下午 org.example.Learner learn
+信息: 一致性测试算法：MealyRuiterEQOracle
+三月 28, 2023 3:13:59 下午 org.example.Learner learn
+信息: 开始学习...
+三月 28, 2023 3:13:59 下午 de.learnlib.logging.LearnLogger logPhase
+信息: 第1轮开始
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: -------------------------------------------------------
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: 学习 [ms]: 17335, (17.335 s)
+查找反例 [ms]: 361370, (361.37 s)
+总时间 [ms]: 378796, (378.796 s)
+
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: Rounds []: 1
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: membership queries to SUL [queries]: 1089
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: membership queries to cache [queries]: 1089
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: equivalence queries to SUL [queries]: 5247
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: equivalence queries to cache [queries]: 5247
+三月 28, 2023 3:20:18 下午 org.example.Learner learn
+信息: 最终假设模型的状态数：12
